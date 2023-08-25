@@ -32,7 +32,7 @@ Most flavors of Linux come with Python; however, Ubuntu may not. You can find in
 
 ## Setup Virtual Environment
 ---
-Once you have Python installed, using the command prompt or the Linux or Mac terminal, navigate to the folder where you downloaded the application. Type the following replacing the <name_of_virtualenv> with an appropriate name without the angle brackets and press enter:
+Once you have Python installed, using the command prompt or the Linux or Mac terminal, navigate to the folder where you either cloned an application or to the folder you are creating a new project in. Type the following replacing the <name_of_virtualenv> with an appropriate name without the angle brackets and press enter:
 ```
 python3 -m venv <name_of_virtualenv>
 ```
